@@ -17,7 +17,6 @@ A polished 3-page web experience built with **React + Vite**. It focuses on clea
 
 ## 🔗 Live Demo
 
-- Demo: _Add your Netlify/Vercel link here_
 - Repo: https://github.com/Zubair-OP/K72
 
 ## 📦 Getting Started
